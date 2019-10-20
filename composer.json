@@ -1,0 +1,15 @@
+{
+    "name": "oshry/php-workshop",
+    "description": "php workshop",
+    "authors": [
+        {
+            "name": "oshry",
+            "email": "oshrylevy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
